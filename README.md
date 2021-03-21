@@ -1,6 +1,6 @@
 # pesendw-s-website
-CSS-DEMOS：CSS特效  
-PROJECTS：完整网站项目
++ CSS-DEMOS：CSS特效
++ PROJECTS：完整网站项目
 
 ## Project setup
 ```

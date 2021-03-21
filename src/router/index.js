@@ -6,8 +6,9 @@ Vue.use(VueRouter)
 const routes = [
   {
     path: '/',
+    alias: '/layout',
     component: () => import('@/views/main.vue'),
-    redirect: '/css-demos',
+    redirect: '/layout/css-demos',
     children: [
       {
         path: 'css-demos',
