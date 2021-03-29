@@ -24,4 +24,12 @@ a {
   -moz-osx-font-smoothing: grayscale;
   color: @font-color;
 }
+
+// 手机展示框
+.phone-box {
+  margin: auto;
+  width: 375px;
+  height: 600px;
+  border: 1px solid #ddd;
+}
 </style>

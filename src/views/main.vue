@@ -13,6 +13,7 @@
                 <span>CSS-Demos</span>
               </template>
               <el-menu-item index="/layout/css-demos">全部CSS-Demos</el-menu-item>
+              <el-menu-item index="/layout/css-demos/hamburger-menu">Hamburger Menu</el-menu-item>
             </el-menu-item-group>
             <el-menu-item-group>
               <template #title>
