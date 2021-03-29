@@ -21,6 +21,10 @@ const routes = [
       {
         path: 'css-demos/hamburger-menu',
         component: () => import('@/views/css-demos/hamburger-menu/hamburger-menu.vue')
+      },
+      {
+        path: 'css-demos/flip-cards',
+        component: () => import('@/views/css-demos/flip-cards/flip-cards.vue')
       }
     ]
   }

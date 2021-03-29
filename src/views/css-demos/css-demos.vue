@@ -9,6 +9,9 @@
       <li>
         <router-link to="/layout/css-demos/hamburger-menu">Hamburger Menu</router-link>
       </li>
+      <li>
+        <router-link to="/layout/css-demos/flip-cards">Flip Cards</router-link>
+      </li>
     </ul>
   </div>
 </template>

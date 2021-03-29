@@ -32,4 +32,10 @@ a {
   height: 600px;
   border: 1px solid #ddd;
 }
+// 内容展示框
+.content-box {
+  width: 100%;
+  height: 600px;
+  border: 1px solid #ddd;
+}
 </style>
