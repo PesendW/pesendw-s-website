@@ -5,7 +5,7 @@
         <el-breadcrumb-item>全部CSS Demos</el-breadcrumb-item>
       </el-breadcrumb>
     </header>
-    <ul>
+    <ul class="rounded-list">
       <li>
         <router-link to="/layout/css-demos/hamburger-menu">Hamburger Menu</router-link>
       </li>
